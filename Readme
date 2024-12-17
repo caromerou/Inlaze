@@ -2,35 +2,37 @@
 
 ## 📜 Descripción del Proyecto
 
-Este repositorio contiene las pruebas automatizadas y los scripts relacionados con las pruebas de calidad (QA) para **Inlaze**, una empresa de marketing de afiliados especializada en apuestas deportivas. El objetivo principal de este proyecto es asegurar que los sistemas de Inlaze sean de alta calidad y confiabilidad, apoyando su crecimiento en el mercado latinoamericano.
+Este repositorio contiene las pruebas automatizadas y los scripts relacionados con las pruebas de calidad (QA) para Inlaze,
+<br> una empresa de marketing de afiliados especializada en apuestas deportivas.
+<br>El objetivo principal de este proyecto es asegurar que los sistemas de Inlaze sean de alta calidad y confiabilidad, apoyando su crecimiento en el mercado latinoamericano.
 
-## 🌍 Contexto
+Tecnologias utilizadas: <br>
+<br>
+Selnuim con webdriver 
 
-En **Inlaze**, trabajas como **QA Engineer**. La empresa se especializa en ofrecer servicios de apuestas deportivas y está posicionándose como el líder de este sector en Latinoamérica. A medida que la plataforma crece, garantizar su funcionamiento impecable es crucial para asegurar una experiencia satisfactoria para los usuarios.
+IMPORTANTE: 
 
-## ✅ Requisitos
+Para que sea mas facil de comprender y maneter el orden las pruebas se pensaron en dos partes: <br> 
+Registro usuario: <br>
+al cual le pertenencen los siguientes scripts: 
 
-A continuación se describen los requisitos fundamentales para este proyecto de QA:
+<br>
+<br>
 
-### 1. **Registro de Usuario**:
-   - ✅ Verificar que el formulario de registro de usuario cumpla con los requisitos establecidos.
-   - ✅ Validar que los campos de nombre, email y contraseña se validen correctamente.
+### 1. **Login de Usuario**:
+<br>le pertenecen los siguientes scripts: <br>
+<br>
+   - ✅ login.py
+   - ✅ cerrar_secion.py 
 
-### 2. **Login de Usuario**:
-   - 🔑 Confirmar que los usuarios puedan iniciar sesión correctamente con su email y contraseña.
-   - 🚫 Validar que el sistema maneje adecuadamente los intentos fallidos de login.
+### 2. **Registro de Usuario**:
+   - 🔑 contrasenas_No_coinciden.py
+   - 🔑contrasena_errada.py 
+   - 🔑email:incorrecto.py
+   - 🔑nombre_incompleto.py 
+   - 🔑habilitar_ojo.py <br>
+   
 
-## 🧪 Casos de Prueba
-
-### 1. **Registro de Usuario**:
-   - 📝 Verificar que el sistema permita registrar un usuario con nombre, email y una contraseña válidos.
-
-### 2. **Login de Usuario**:
-   - 🔒 Validar que los usuarios puedan acceder a la plataforma con sus credenciales correctamente.
-
-## ⚙️ Instalación
-
-Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 1. **Clona este repositorio**:
    ```bash
