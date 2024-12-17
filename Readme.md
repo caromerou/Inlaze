@@ -81,7 +81,7 @@ Este caso de prueba incluye los siguientes escenarios:
 
 Puedes encontrar el seguimiento de este proyecto en la sección de **Proyectos** de GitHub. El proyecto se llama **Inlaze_Track**, y puedes acceder a él a través del siguiente enlace:
 
-[Inlaze_Track en GitHub](https://github.com/users/caromerou/projects/5/views/1)
+https://github.com/users/caromerou/projects/5/settings
 
 ---
 
