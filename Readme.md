@@ -94,9 +94,22 @@ Se han identificado y documentado 3 bugs durante la ejecución de las pruebas. E
 
 ## ⚙️ Cómo Ejecutar las Pruebas
 
-Para ejecutar las pruebas automatizadas en tu entorno local, sigue estos pasos:
+1.Verificar si tienes Python instalado
+Primero, necesitas asegurarte de que tienes Python instalado en tu sistema. Para hacerlo, abre la terminal (o línea de comandos) y escribe el siguiente comando: python --version
 
-1. Clona este repositorio:
+
+2. Instalar Selenium
+comando: pip install selenium
+
+
+3. Instalar WebDriver Manager
+WebDriver Manager es una librería que te ayuda a gestionar los controladores de los navegadores (como ChromeDriver para Google Chrome o GeckoDriver para Firefox) de manera automática. Esto significa que no tendrás que descargar manualmente los controladores y asegurarte de que sean compatibles con la versión de tu navegador.
+
+ejecuta el siguiente comando:
+pip install webdriver-manager
+
+
+4. Clona este repositorio:
    ```bash
    git clone https://github.com/caromerou/inlaze-qa.git
 
