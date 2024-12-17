@@ -6,7 +6,7 @@
 
 ## Índice
 
-1. [Descripción](#descripción)
+1. [Descripción](#descripción-del-proyecto)
 2. [Objetivo](#objetivo)
 3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 4. [Estructura de las Pruebas](#estructura-de-las-pruebas)
