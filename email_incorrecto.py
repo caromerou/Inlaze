@@ -26,7 +26,7 @@ time.sleep(2)
 # Espera hasta que el campo Email sea visible y clickeable
 email = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, "/html/body/app-root/app-sign-up/main/section[2]/app-sign-up-form/form/div[2]/label")))
 driver.execute_script("arguments[0].scrollIntoView();", email)  # Asegura que el campo esté visible
-actions.move_to_element(email).click().send_keys("carolinaromeroulloa@gmail.com").perform()
+actions.move_to_element(email).click().send_keys("carolinaromeroulloagmail.com").perform()
 
 # Pausa para ver el campo completo
 time.sleep(2)
