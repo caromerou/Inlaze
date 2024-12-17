@@ -31,6 +31,31 @@ al cual le pertenencen los siguientes scripts:
    - 🔑email:incorrecto.py
    - 🔑nombre_incompleto.py 
    - 🔑habilitar_ojo.py <br>
+
+
+
+En el CP1 Verificar registro de usuarios nuevos
+se unieron los siguientes escenarios: 
+- Verificar que se pueda registrar un usuario con nombre, email y contraseña válidos.
+- Validar que el campo de nombre acepte mínimo 2 palabras.
+- Verificar que el email cumpla con el formato estándar y sea único en la base de datos.
+- Validar que la contraseña cumpla con los requisitos de longitud y caracteres.
+- Comprobar que el formulario no se envíe si los campos obligatorios no están completos.
+- Verificar que el sistema informe si las contraseñas ingresadas no coinciden.
+
+En el CP2 Validar login usuario
+se unieron los siguientes escenarios: 
+    - Verificar que el usuario pueda loguearse con el email y contraseña correctos.
+    - Validar que el formulario de login no se envíe si los campos no están completos.
+    - Comprobar que al ingresar se muestre el nombre del usuario.
+    - Verificar que la plataforma permita cerrar la sesión correctamente.
+
+lo anterior lo podra ubicar en el repositorio en la opciòn proyectos, este proyecto se llama Inlaze_Track y este es el link https://github.com/users/caromerou/projects/5/views/1
+
+Se hallaron 3 bugs 
+
+
+
    
 
 
