@@ -1,28 +1,48 @@
 
-
 # 🚀 Proyecto de QA en Inlaze
+
+<p align="center">
+  <img src="images/portada.jpg" height="400">
+</p>
+
+## Índice
+
+1. [Descripción](#descripción)
+2. [Objetivo](#objetivo)
+3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Estructura de las Pruebas](#estructura-de-las-pruebas)
+5. [Casos de Prueba](#casos-de-prueba)
+6. [Proyecto en GitHub](#proyecto-en-github)
+7. [Bugs Encontrados](#bugs-encontrados)
+8. [Cómo Ejecutar las Pruebas](#cómo-ejecutar-las-pruebas)
+9. [Enlaces](#enlaces)
+10. [Colaboradores](#colaboradores)
+11. [Tecnologías](#tecnologías)
 
 ## 📜 Descripción del Proyecto
 
-Este repositorio contiene las pruebas automatizadas y los scripts relacionados con las pruebas de calidad (QA) para **Inlaze**
+Este repositorio contiene las pruebas automatizadas y los scripts relacionados con las pruebas de calidad (QA) para **Inlaze**, una compañía de marketing de afiliados que se especializa en apuestas deportivas.
 
-### 🛠 Tecnologías Utilizadas
+## Objetivo
+
+El objetivo de este proyecto es probar el funcionamiento de las funcionalidades de **registro de usuario** y **login** para la empresa Inlaze, contribuyendo a su crecimiento como el servicio web de apuestas deportivas más grande de Latinoamérica.
+
+---
+
+## 🛠 Tecnologías Utilizadas
+
 - **Selenium** con WebDriver para la automatización de pruebas.
-
-
-OBJETIVO: 
-Probar el funcionamiento de la funcionalidad regustro usuario y login para la empresa Inlaze,
-una compañía de marketing de afiliados que se especializa en apuestas deportivas, para de esa manera contribuir a su 
-crecimiento como el servicio web de apuestas deportivas más grande de Latinoamérica.
+- **Python** para la programación de las pruebas.
+- **Git** para control de versiones.
 
 ---
 
 ## 📋 Estructura de las Pruebas
 
-Para facilitar la comprensión y el mantenimiento del proyecto, las pruebas se han dividido en dos partes principales:
+Las pruebas se dividen en dos módulos principales:
 
 ### 1. **Registro de Usuario**
-El módulo de **registro de usuario** incluye las siguientes pruebas automatizadas:
+Este módulo incluye las siguientes pruebas automatizadas:
 
 - ✅ `login.py`: Verifica el proceso de login.
 - ✅ `cerrar_sesion.py`: Verifica el cierre de sesión correctamente.
@@ -42,7 +62,7 @@ Este módulo se enfoca en la validación de los campos de registro, con los sigu
 
 ### CP1: Verificar Registro de Usuarios Nuevos
 
-En este caso de prueba, se validan los siguientes escenarios:
+Este caso de prueba valida los siguientes escenarios:
 
 - Verificar que un usuario pueda registrarse con nombre, correo electrónico y contraseña válidos.
 - Validar que el campo de nombre acepte un mínimo de dos palabras.
@@ -72,46 +92,14 @@ Puedes encontrar el seguimiento de este proyecto en la sección de **Proyectos**
 
 ## 🐞 Bugs Encontrados
 
-Se han identificado y documentado 3 bugs durante la ejecución de las pruebas. Estos bugs han sido reportados en los issues correspondientes de GitHub para su seguimiento y corrección.
-(los bugs corresponden a CP1 Registro de usuarios)
+Se han identificado y documentado 3 bugs durante la ejecución de las pruebas. Estos bugs han sido reportados en los issues correspondientes de GitHub para su seguimiento y corrección (los bugs corresponden a CP1 Registro de usuarios).
+
 ---
 
 ## ⚙️ Cómo Ejecutar las Pruebas
 
 Para ejecutar las pruebas automatizadas en tu entorno local, sigue estos pasos:
 
-1. Clona el repositorio:
-
-    ```bash
-    git clone https://github.com/caromerou/Inlaze.git
-    ```
-
-2. Instala las dependencias necesarias:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-
----
-
-## 📅 Contribuciones
-
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
-4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
-5. Abre un pull request.
-
-¡Gracias por tu colaboración!
-
----
-
-## 📧 Contacto
-
-Para más información o si tienes alguna duda, no dudes en contactarme:
-
-- **Correo electrónico**: caromerou@correo.com
-- **GitHub**: [@caromerou](https://github.com/caromerou)
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/caromerou/inlaze-qa.git
