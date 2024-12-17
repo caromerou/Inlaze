@@ -33,7 +33,8 @@ El objetivo de este proyecto es probar el funcionamiento de las funcionalidades 
 ---
 
 ## 📋 Estructura de las Pruebas
-
+as pruebas en este proyecto son transversales, lo que significa que cada prueba está diseñada de manera que se complementa con la siguiente. En lugar de repetir código en cada caso de prueba, se aprovecha la información y los resultados obtenidos de una prueba para observar y validar lo que sucede en cada paso del proceso. De esta forma, se optimiza el código y se evita redundancia, permitiendo que una prueba sirva para validar múltiples escenarios de manera eficiente.
+<br>
 Las pruebas se dividen en dos módulos principales:
 
 ### 1. **Registro de Usuario**
