@@ -1,3 +1,5 @@
+# NOTA: Este script muestra el comportamiento del Bug No. 2 correspondiente al Issue No. 5.
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
