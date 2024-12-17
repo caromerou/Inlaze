@@ -84,6 +84,7 @@ Puedes encontrar el seguimiento de este proyecto en la sección de **Proyectos**
 
 https://github.com/users/caromerou/projects/5/settings
 
+Aquì encontrara tanto los casos de pruebas, que lleve a cabo de 2 maneras uno pruebas agrupadas donde se pretende demostrar que con 2 escenarios se puede cubrir todas las pruebas solicitadas y la segunda opciòn se llama pruebas individuales que esta mas enfocada hacia eld etalle, ¿oir que lo plantie de esa manera? Porque no todas las empresas trabajans su set de pruebas de igual manera, he experimentado ambas maneras y pòrque no todas las pruebas son iguales y pùeden requerir un enfoque u otro. 
 ---
 
 ## 🐞 Bugs Encontrados
