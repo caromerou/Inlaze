@@ -1,22 +1,17 @@
 # 🚀 Proyecto de QA en Inlaze
 
-<p align="center">
-  <img src="images/portada.jpg" height="400">
-</p>
+<img src="https://th.bing.com/th/id/OIP.Nl1SszF1F9c-Y0t083n0FgHaFS?rs=1&pid=ImgDetMain" width="800" height="400">
 
 ## Índice
 
-1. [Descripción](#descripción-del-proyecto)
+1. [Descripción del proyecto](#descripción-del-proyecto)
 2. [Objetivo](#objetivo)
 3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 4. [Estructura de las Pruebas](#estructura-de-las-pruebas)
 5. [Casos de Prueba](#casos-de-prueba)
 6. [Proyecto en GitHub](#proyecto-en-github)
 7. [Bugs Encontrados](#bugs-encontrados)
-8. [Cómo Ejecutar las Pruebas](#cómo-ejecutar-las-pruebas)
-9. [Enlaces](#enlaces)
-10. [Colaboradores](#colaboradores)
-11. [Tecnologías](#tecnologías)
+8. [Cómo Ejecutar las Pruebas](#cómo-ejecutar-las-pruebas))
 
 ## 📜 Descripción del Proyecto
 
