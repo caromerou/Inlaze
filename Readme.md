@@ -11,7 +11,8 @@
 5. [Casos de Prueba](#casos-de-prueba)
 6. [Proyecto en GitHub](#proyecto-en-github)
 7. [Bugs Encontrados](#bugs-encontrados)
-8. [Cómo Ejecutar las Pruebas](#cómo-ejecutar-las-pruebas))
+8. [Cómo Ejecutar las Pruebas](#cómo-ejecutar-las-pruebas)
+9. [Datos de contacto](#datos-de-contacto)
 
 ## 📜 Descripción del Proyecto
 
@@ -97,3 +98,6 @@ Para ejecutar las pruebas automatizadas en tu entorno local, sigue estos pasos:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/caromerou/inlaze-qa.git
+
+## ⚙️ Datos de contacto 
+Si tienen alguna inquietud con mucho gusto! escribir a caromeroulloa@hotmail.com 
