@@ -4,10 +4,16 @@
 
 ## 📜 Descripción del Proyecto
 
-Este repositorio contiene las pruebas automatizadas y los scripts relacionados con las pruebas de calidad (QA) para **Inlaze**, una empresa de marketing de afiliados especializada en apuestas deportivas. El objetivo principal de este proyecto es asegurar que los sistemas de Inlaze sean de alta calidad y confiabilidad, apoyando su crecimiento en el mercado latinoamericano.
+Este repositorio contiene las pruebas automatizadas y los scripts relacionados con las pruebas de calidad (QA) para **Inlaze**
 
 ### 🛠 Tecnologías Utilizadas
 - **Selenium** con WebDriver para la automatización de pruebas.
+
+
+OBJETIVO: 
+Probar el funcionamiento de la funcionalidad regustro usuario y login para la empresa Inlaze,
+una compañía de marketing de afiliados que se especializa en apuestas deportivas, para de esa manera contribuir a su 
+crecimiento como el servicio web de apuestas deportivas más grande de Latinoamérica.
 
 ---
 
